@@ -1,5 +1,4 @@
 import React from "react";
-import { ReactComponent as PlayButton } from "../../assets/play.svg";
 import "./Display.css"
 
 function Display ({dictResponse}){
